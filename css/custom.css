@@ -1,5 +1,32 @@
+body{
+    background-color: black;
+}
+
+h1, p{
+    color: white;
+}
+
 .navbar{
     background-color: black !important;
+}
+
+.container-fluid{
+    background-color: black;
+    color: white;
+
+}
+
+.card{
+    color: white;
+}
+
+
+
+
+
+
+.footerP{
+    color: lightgray;
 }
 
 
